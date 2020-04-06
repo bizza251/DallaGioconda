@@ -1,0 +1,140 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: #023442;
+  /* background-color: #a6b1e1; */
+  background-color: white;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+div{
+  margin: 0;
+  padding: 0;
+}
+
+
+.justify-content-center{
+  margin: 0;
+}
+
+/* NavigationBar */
+#NavigationBar {
+  font-family: 'Catamaran', sans-serif;
+  font-size: 1.5rem;
+  height: 10%;
+ 
+}
+
+.navbar-brand{
+  display: inline-block;
+  width: 30%;
+}
+
+.img-brand{
+  width: inherit;
+}
+
+#navbarSupportedContent{
+  text-align: right;
+  margin: 0;
+}
+
+hr{
+  border-radius: 3px;
+  border-color: black;
+}
+
+/* Intro */
+
+#intro{
+  margin: 0;
+  padding: 0;
+}
+
+.img-intro{
+  margin-top: 5%;
+  width: 100%;
+}
+
+/* Testo */
+
+#testo{
+  padding: 10% 10% 10% 10%;
+  text-align: center;
+}
+
+.img-testo{
+  width: 80%;
+}
+
+.btn-prenota{
+  margin-bottom: 10%;
+}
+
+/* LUOGO */
+
+#luogo{
+  line-height: 2.5;
+  text-align: left;
+}
+
+.row-text{
+  padding: 0 10% 0 10%;
+}
+
+.carousel{
+  margin-top: 7%;
+  margin-bottom: 7%;
+}
+
+.img-carousel{
+  height: 10%;
+  width: 100%;
+}
+
+/* MENU */
+
+#menu{
+  text-align: left;
+}
+
+#menu .row-luogo{
+  margin-bottom: 10%;
+}
+
+.p-menu{
+  font-size: 12px;
+  color: black;
+  font-weight: bold;
+}
+
+.subtitle-menu{
+  font-size: 12px;
+  color: inherit;
+  font-weight: bold;
+}
+
+.title-center{
+  margin: 5% 0 2% 0;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.row-menu{
+  margin: 0;
+}
+
+.card-menu{
+  border-color: :#137388;
+  color: #137388;
+  border-radius: 0;
+  border-style: solid;
+  border-width: thick;
+  padding: 5% 3% 5% 3%;
+  line-height: 1;
+  margin: 3% 3% 0 3%;
+}
+
+.menu-degustazione{
+  text-align: center;
+}
